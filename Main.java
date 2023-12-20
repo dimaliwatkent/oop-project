@@ -55,7 +55,7 @@ class Main {
 
       MethodOverriding.run();
 
-      System.out.println("1 - Run Again");
+      System.out.println("\n1 - Run Again");
       System.out.println("0 - Back");
       int choice = scanner.nextInt();
       scanner.nextLine();
@@ -69,8 +69,8 @@ class Main {
     clearConsole();
     while (true) {
       clearConsole();
-      System.out.println("Thanks for choosing option 2");
-      System.out.println("1 - Run Again");
+      Encapsulation.run();
+      System.out.println("\n1 - Run Again");
       System.out.println("0 - Back");
       int choice = scanner.nextInt();
       scanner.nextLine();

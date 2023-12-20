@@ -10,10 +10,17 @@
 
 1. Open a Terminal or Command Prompt
 2. Run this code `git clone https://github.com/dimaliwatkent/oop-project.git`
+
 ![](docs/2.png)
+
 3. Run `cd oop-project`
+
 ![](docs/3.png)
+
 4. Run `javac Main.java` to compile
+
 ![](docs/4.png)
+
 5. Run `java Main` to run the project
+
 ![](docs/5.png)
